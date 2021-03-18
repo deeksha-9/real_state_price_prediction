@@ -1,0 +1,44 @@
+astroid==2.4.2
+backcall==0.2.0
+certifi==2020.12.5
+click==7.1.2
+colorama==0.4.3
+decorator==4.4.2
+Flask==1.1.2
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+isort==4.3.21
+itsdangerous==1.1.0
+jedi==0.17.2
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+mccabe==0.6.1
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+pandas @ file:///C:/ci/pandas_1608068219821/work
+pickleshare==0.7.5
+prompt-toolkit==3.0.8
+Pygments==2.7.3
+pylint==2.5.3
+PyQtWebEngine==5.12
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
+pyzmq==20.0.0
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1604596260408/work
+six==1.15.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toml==0.10.1
+tornado==6.1
+traitlets==5.0.5
+wcwidth==0.2.5
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
