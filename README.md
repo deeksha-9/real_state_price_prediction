@@ -12,4 +12,4 @@
  *banglore home prices dataset from kaggle.com
  
  
-![](bhp.PNG)
+![](bhp.png)
